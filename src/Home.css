@@ -1,0 +1,226 @@
+body{
+    background-color: aliceblue;
+}
+#nav{
+    height: 50px;
+    
+    
+
+    
+}
+
+
+
+
+#discover{
+    opacity: 70px;
+}
+#drop1:hover{
+    text-decoration: underline;
+}
+#drop1{
+    text-decoration: none;
+    font-size: smaller;
+    color:lightslategrey;
+}
+#drop{
+   color:royalblue;
+   font-size: large;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+}
+.dropdown:hover #test
+ {display: block;
+padding: 10px;
+width: 800px;
+margin-left: -330px;
+
+margin-top: 5px;}
+
+
+
+.dropdown:hover #accepting
+
+ {display: block;
+padding: 10px;
+width: 1100px;
+margin-left: -180px;
+
+margin-top: 5px;}
+
+.dropdown:hover .dropdown-menu
+ {display: block;
+padding: 10px;
+width: 1100px;
+margin-left: -60px;
+
+margin-top: 5px;}
+.para{
+    margin-left: 20px;
+}
+#nav1{
+    height: 40px;
+}
+#duling{
+    margin-left: -100px;
+    width: 700px;
+    height: 50px;
+    font-size: large;
+}
+#languagedrop{
+    width: 400px;
+    padding: 20px;
+}
+#site{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+#sitelanguage option:hover{
+    background-color: rgb(241, 111, 111);
+}
+#test{
+    margin-top: 3px;
+}
+
+/* 
+homepage css ends here .................................................................. */
+/* body page css starts here......................................... */
+#english{
+    font-size: 43px;
+    font-weight: 600;
+    color:midnightblue;
+    margin-top: 30px;
+ 
+}
+
+#english1 img,span{
+    margin-top: 20px;
+}
+#english1{
+    margin-left: 20px;
+}
+#english1 button{
+    margin-left: 20px;
+    border-radius: 5px;
+    box-shadow: 10px;
+    margin-top: 50px;
+    font-size:30px;
+}
+.fast img{
+
+    width: 350px;
+}
+.fast{
+    background-color: white;
+    height: 500px;
+}
+#con{
+    margin-left: 150px;
+    margin-top:50px ;
+}
+#para{
+    margin-left: 50px;
+}
+#rocket{
+    margin-left: 500px;
+    margin-top: -60px;
+}
+#con1{
+    margin-left: 200px;
+    margin-top:50px ;
+font-size: 500px;
+}
+#con2{  margin-left: 400px;
+ 
+
+}
+#container1 button{
+    margin-left: 550px;
+    border-radius: 10px;
+    box-shadow: 30px;
+    
+}
+#accurate{
+    background-color: white;
+}
+#quick1 h5{
+    margin-left: 20px;
+   
+}
+#quick1{
+
+    margin-top: 40px;
+}
+#quick1 span{
+    margin-left: 20px;
+    margin-top: -0px;
+}
+#quick3 {
+    margin-left: 60px;
+   
+}
+#watch{
+    background-color: antiquewhite;
+}
+.get h2{
+    margin-left: 100px;
+    
+}
+.get p{
+    margin-left: -30px;
+    color:cornsilk;
+}
+.get{
+    background-image: url("../public/butter.jpeg");
+    height: 330px; 
+    margin-bottom: 200px;
+    padding-bottom: 50px;
+}
+#getbutton{
+    margin-left: 480px;
+    column-gap: 20px;
+    
+}
+#getbutton1{
+    margin-left: 10px;
+   
+    
+}
+.taking a{
+    display: block;
+    text-decoration: none;
+}
+.taking a:hover{
+    text-decoration: underline;
+}
+#site1{
+   
+    overflow-y: scroll;
+    width: 200px;
+    background-color: white;
+    box-shadow: 30px;
+    border: 1px soid aliceblue;
+    border-radius: 10px;
+    height: 50px;
+ 
+
+}
+#language a{
+text-decoration: none;
+color: black;
+opacity: 75%;
+font-weight: 400;
+margin-left: 20px;
+}
+
+#language{
+    margin-left: 30px;
+}
+#end{
+    margin-top: 30px;
+    padding-top: 50px;
+   padding-bottom: 160px;
+
+}

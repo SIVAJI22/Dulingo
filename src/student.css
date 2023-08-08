@@ -1,0 +1,77 @@
+.around{
+    font-size: larger;
+    color: rgb(4, 4, 63);
+}
+#space{
+    width:600px;
+    height:400px;
+}
+.start{
+    color: burlywood;
+    background-color: rgb(26, 26, 87);
+    border-radius: 10px;
+    box-shadow: 20px;
+    padding: 10px;
+}
+.words{
+color: rgb(26, 26, 87);
+font-weight: 700;
+}
+.word2{
+    background-color: white;
+
+    box-shadow: 20px;
+    
+    
+}
+#wordimg1{
+    margin-left: 595px;
+}
+#wordimg2{
+    margin-left: 550px;
+}
+#wordh4{
+    margin-left: 500px;
+}
+#wordpara{
+    margin-left: 300px;
+}
+.card{
+    padding: 20px;
+    column-gap: 20px;
+    margin-bottom: 30px;
+}
+.card iframe{
+    width: 500px;
+}
+#wordh5{
+    margin-left: 600px;
+}
+#wordh6{
+    margin-left: 560px;
+}
+#read{
+    background-color: rgb(252, 210, 155);
+    color: rgb(1, 1, 53);
+    font-size: larger;
+    font-weight:700 ;
+    border-radius: 10px;
+    padding: 10px;
+}
+#profile{
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+#date{
+    margin-left: -130px;
+    margin-top: 25px;
+}
+#profile1{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+#real{
+    color: rgb(1, 1, 56);
+    font-weight: 700;
+}
