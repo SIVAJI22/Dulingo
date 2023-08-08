@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/duligno/static/css/main.ccaa1e5b.css",
+    "main.js": "/duligno/static/js/main.a1acf69c.js",
+    "static/js/787.90d498bc.chunk.js": "/duligno/static/js/787.90d498bc.chunk.js",
+    "static/media/logo.svg": "/duligno/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/duligno/index.html",
+    "main.ccaa1e5b.css.map": "/duligno/static/css/main.ccaa1e5b.css.map",
+    "main.a1acf69c.js.map": "/duligno/static/js/main.a1acf69c.js.map",
+    "787.90d498bc.chunk.js.map": "/duligno/static/js/787.90d498bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccaa1e5b.css",
+    "static/js/main.a1acf69c.js"
+  ]
+}
